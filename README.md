@@ -14,12 +14,12 @@ Report
 
 1.	Objective – Regrssion, Classification
 2.	Models
-	a. regression
-    		i. Linear regression
-   		ii. Polynomial regression
-	  b. classification
-    		i.  knn + implement weighted knn
-    		ii. logistic regression
+	a) regression
+    		i) Linear regression
+   		ii) Polynomial regression
+	b) classification
+    		i)  knn + implement weighted knn
+    		ii) logistic regression
 4.	
 5.	Dataset Describe
 6.	Pre=processing
