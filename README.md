@@ -14,9 +14,16 @@ Report
 
 1.	Objective – Regrssion, Classification
 2.	Models
-3.	Dataset Describe
-4.	Pre=processing
-5.	Model selection
-6.	Results – Error (Regression), Accuracy (Classification)
-7.	Acknowledgments
-8.	Team Work - 
+	a. regression
+    i. Linear regression
+    ii. Polynomial regression
+  b. classification
+    i.  knn + implement weighted knn
+    ii. logistic regression
+4.	
+5.	Dataset Describe
+6.	Pre=processing
+7.	Model selection
+8.	Results – Error (Regression), Accuracy (Classification)
+9.	Acknowledgments
+10.	Team Work - 
